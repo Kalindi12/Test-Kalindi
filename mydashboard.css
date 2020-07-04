@@ -1,0 +1,33 @@
+body
+{
+	background-color:blue;
+}
+body table
+{
+	width:100%;
+	height:700px;
+}
+body .Dashboard table tr td
+{
+	border-color:white;
+	border-style:solid;
+	color:yellow;
+	font-size:30px;
+	
+	
+	
+}
+body a
+{
+	text-decoration:none;
+	color:yellow;
+	text-align:center;
+	display:block;
+}
+body img
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+}
